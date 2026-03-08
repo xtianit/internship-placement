@@ -1,6 +1,6 @@
 import { useState, useEffect, useCallback, useRef } from "react";
 
-const API_BASE = "https://internship-placement-flask.onrender.com";
+const API_BASE = "https://internship-placement-flask.onrender.com/api";
 
 const STYLES = `
   @import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,600;0,9..144,800;1,9..144,400&family=DM+Sans:wght@300;400;500;600;700&family=DM+Mono&display=swap');
